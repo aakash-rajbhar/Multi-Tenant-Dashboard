@@ -12,6 +12,12 @@ A concise React + Vite + Tailwind frontend for a multi-tenant sales dashboard wi
 
 ## How to Run
 ```bash
+#clone project
+git clone https://github.com/aakash-rajbhar/Multi-Tenant-Dashboard.git
+
+#change directory
+cd Multi-Tenant-Dashboard
+
 npm install
 npm run dev
 # build
