@@ -39,7 +39,7 @@ npm run build
 ## Structure
 ```
 src/
-  app/App.jsx            Root shell
+  App.jsx            Root shell
   auth/AuthContext.jsx   Mock auth + tenant/role state
   data/mockData.js       Tenants, leads, calls
   modules/
